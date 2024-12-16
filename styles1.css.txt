@@ -1,0 +1,17 @@
+body {
+    font-size: 24px;
+}
+h1 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 24 px;
+}
+h6 {
+    font-size: 12 px;
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
